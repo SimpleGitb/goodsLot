@@ -204,6 +204,6 @@ export default {
   width: 100%;
 }
 .ql-container.ql-snow {
-  border: 0;
+  border: 0 !important;
 }
 </style>
