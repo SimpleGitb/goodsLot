@@ -24,7 +24,7 @@
     "mavon-editor": "^2.5.4",
     "qrcode": "^1.3.3",
     "qrcodejs2": "0.0.2",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "v-charts": "^1.17.6",
     "vue": "^2.5.16",
     "vue-bulma-chartjs": "^1.0.5",
